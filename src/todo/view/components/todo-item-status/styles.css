@@ -1,0 +1,17 @@
+.todo-item_status {
+  height: 10px;
+  width: 10px;
+  border-radius: 50%;
+}
+
+.todo-item_status.OPEN {
+  background-color: grey;
+}
+
+.todo-item_status.IN_PROGRESS {
+  background-color: blue;
+}
+
+.todo-item_status.DONE {
+  background-color: green;
+}
