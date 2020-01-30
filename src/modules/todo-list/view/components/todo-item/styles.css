@@ -1,0 +1,24 @@
+.todo-item {
+    background-color: #befff0;
+    color: black;
+    border: 1px solid green;
+    margin-bottom: 5px;
+    width: 250px;
+}
+
+.todo-item .todo-item_description {
+    padding: 5px;
+    font-size: 14px;
+}
+
+.todo-item .todo-item_header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #86ffad;
+    padding: 5px;
+}
+
+.todo-item .todo-item_header .todo-item_status {
+    margin-right: 10px;
+}
