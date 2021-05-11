@@ -6,7 +6,7 @@
     "@types/uuid": "^3.4.6",
     "antd": "^3.26.7",
     "formik": "^2.1.2",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "mobx": "^5.15.3",
     "mobx-react": "^6.1.4",
     "mobx-utils": "^5.5.3",
